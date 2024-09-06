@@ -17,6 +17,20 @@ Manejo de tipo de variables, cadenas, if, for, while.
 - CUANDO ES FALSO
 - ![image](https://github.com/user-attachments/assets/5c85d15c-dde7-4ba6-993a-ea8b67b5d491)
 
+## REPETICION FOR
+- ![image](https://github.com/user-attachments/assets/89143734-3713-410e-90fc-5a338d98a3f9)
+- RESULTADO
+- ![image](https://github.com/user-attachments/assets/ce48e476-0f33-46f6-8c59-829857f14002)
+
+## REPETICION WHILE
+- ![image](https://github.com/user-attachments/assets/d2829982-6f2e-4c37-bcba-26ab2d91d183)
+- RESULTADOS
+- ![image](https://github.com/user-attachments/assets/17fabfd9-bed6-4d4e-8436-28be90aef16c)
+
+
+
+
+
 
 
 
