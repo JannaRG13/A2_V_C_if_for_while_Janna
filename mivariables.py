@@ -1,6 +1,6 @@
 import math
-edad=17 # 65 se guarda en edad
-Nombre="Roberto Gaytan"
+edad=17 # se guarda en edad
+Nombre="Janna Ramirez"
 print("Tu edad es ",edad)
 print("Te llamas",Nombre)
 
